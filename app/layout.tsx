@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: 'Spotify app',
   description: 'Listen your favorite music',
 }
-
+// toot layout for all pages
 export default function RootLayout({
   children,
 }: {
